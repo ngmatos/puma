@@ -1,6 +1,6 @@
 # Project Puma
 ## Total Costs
-- https://github.com/ngmatos/puma/blob/master/costs.md
+- https://docs.google.com/spreadsheets/d/1nNPkOiaangwKwj-RrwrHEKRbkPCge5T695F3SM_83Gw/edit?usp=sharing
 
 ## Important Links
 - https://github.com/ngmatos/puma/blob/master/links.md
